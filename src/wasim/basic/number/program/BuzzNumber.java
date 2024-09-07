@@ -23,7 +23,6 @@ public class BuzzNumber {
 		else
 			System.out.println(n+" is not a BuzzNumber");
 		
-
 	}
 
 }
