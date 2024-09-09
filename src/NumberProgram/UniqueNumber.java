@@ -1,7 +1,7 @@
 //A number is said to be unique , if the digits in it are not repeated. 
 //for example, 12345 is a unique number. 123445 is not a unique number.
 
-package wasim.basic.number.program;
+package NumberProgram;
 
 import java.util.ArrayList;
 import java.util.List;

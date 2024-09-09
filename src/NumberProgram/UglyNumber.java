@@ -2,7 +2,7 @@
 //For example, 6(2×3), 8(2x2x2), 15(3×5) are ugly numbers while 14(2×7) is not ugly since
 // it includes another prime factor 7. Note that 1 is typically treated as an ugly number.
 
-package wasim.basic.number.program;
+package NumberProgram;
 import java.util.Scanner;
 public class UglyNumber {
 	public static void main(String[] args) {		

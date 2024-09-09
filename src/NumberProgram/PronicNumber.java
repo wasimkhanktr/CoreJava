@@ -1,6 +1,6 @@
 //प्रोनिक संख्या वह संख्या है जो दो लगातार पूर्णांकों का गुणनफल होती है
 
-package wasim.basic.number.program;
+package NumberProgram;
 
 import java.util.Scanner;
 

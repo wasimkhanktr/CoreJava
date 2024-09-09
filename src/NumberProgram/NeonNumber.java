@@ -2,7 +2,7 @@
 //is equal to the number. For example if the input number is 9, its square is 9*9 = 81
 //and sum of the digits is 9. i.e. 9 is a neon number.
 //
-package wasim.basic.number.program;
+package NumberProgram;
 
 import java.util.Scanner;
 

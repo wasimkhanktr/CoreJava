@@ -9,7 +9,7 @@
 
 
 
-package wasim.basic.number.program;
+package NumberProgram;
 
 import java.util.Scanner;
 

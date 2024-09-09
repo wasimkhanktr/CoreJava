@@ -2,7 +2,7 @@
 //is the largest positive integer that divides each of the integers.
 //For example, the gcd of 8 and 12 is 4.
 
-package wasim.basic.number.program;
+package NumberProgram;
 
 import java.util.ArrayList;
 import java.util.List;

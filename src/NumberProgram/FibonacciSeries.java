@@ -1,7 +1,7 @@
 //A series of numbers in which each number ( Fibonacci number ) is the sum of the two preceding numbers.
 //The simplest is the series 0, 1, 1, 2, 3, 5, 8, etc.
 
-package wasim.basic.number.program;
+package NumberProgram;
 
 import java.util.Scanner;
 

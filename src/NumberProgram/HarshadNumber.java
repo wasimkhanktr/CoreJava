@@ -3,7 +3,7 @@
 //by the sum of its digits when written in that base. 
 //ex-6804-> 6+8+0+4=18-> 6804%18=0
 
-package wasim.basic.number.program;
+package NumberProgram;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 //A number is said to be Buzz Number if it ends with 7 or is divisible by 7.
 //Example: 1007 is a Buzz Number.
-package wasim.basic.number.program;
+package NumberProgram;
 
 import java.util.Scanner;
 

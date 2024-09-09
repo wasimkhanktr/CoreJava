@@ -2,7 +2,7 @@
 //संख्याएं सह अभाज्य (CoPrime) संख्या कहलाती है। (2,3) ,(3,4) ,(4,5)… 
 //ऐसे ही बहुत सारी संख्याओं का जोड़ा (pair) है जो सह अभाज्य(co-prime) होती हैं।
 
-package wasim.basic.number.program;
+package NumberProgram;
 
 import java.util.ArrayList;
 import java.util.List;

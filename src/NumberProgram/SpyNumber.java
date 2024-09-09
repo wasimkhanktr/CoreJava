@@ -2,7 +2,7 @@
 //of its digits. For example, 1124 is a spy number, the sum of its digits 
 //is 1+1+2+4=8 and the product of its digits is 1*1*2*4=8.
 
-package wasim.basic.number.program;
+package NumberProgram;
 
 import java.util.Scanner;
 

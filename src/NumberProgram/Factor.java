@@ -4,7 +4,7 @@
 //exactly. The other factors
 //of 12 are 1, 2, 4, and 12. Factors of 12: 1, 2, 3, 4, 6, 12.
 
-package wasim.basic.number.program;
+package NumberProgram;
 
 
 import java.util.Scanner;

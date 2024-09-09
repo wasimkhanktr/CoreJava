@@ -2,7 +2,7 @@
 //its digits are reversed. Like 16461, for example,
 
 
-package wasim.basic.number.program;
+package NumberProgram;
 
 import java.util.Scanner;
 

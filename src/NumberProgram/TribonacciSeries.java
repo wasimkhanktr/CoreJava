@@ -3,7 +3,7 @@
 //Input : 10
 //Output : 0, 0, 1, 1, 2, 4, 7, 13, 24, 44
 
-package wasim.basic.number.program;
+package NumberProgram;
 
 import java.util.Scanner;
 

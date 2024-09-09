@@ -1,7 +1,7 @@
 //A number is called Disarium number if the sum of its power of the
 //positions from left to right is equal to the number.Ex- 1power1 + 3power2 + 5power3 = 1 + 9 + 125 = 135
 
-package wasim.basic.number.program;
+package NumberProgram;
 
 import java.util.Scanner;
 

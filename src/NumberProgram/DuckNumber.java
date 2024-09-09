@@ -1,7 +1,7 @@
 //A Duck number is a number which has zeroes present in it, but there should be 
 //no zero present in the beginning of the number. For example 3210
 
-package wasim.basic.number.program;
+package NumberProgram;
 
 import java.util.Scanner;
 

@@ -1,7 +1,7 @@
 //A Number that can be represented as the sum of the factorial of it's individual digits is known as a Strong Number.
 //ex- 145-> 1!+4!+5!= 1 + 1*2*3*4 + 1*2*3*4*5 = 1+ 24 + 120 = 145 
 
-package wasim.basic.number.program;
+package NumberProgram;
 
 import java.util.Scanner;
 

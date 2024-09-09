@@ -1,7 +1,7 @@
 //A number is said to be special number when the sum of 
 //factorial of its digits is equal to the number itself. 
 //Example- 145 is a Special Number as 1!+4!+5!=145.
-package wasim.basic.number.program;
+package NumberProgram;
 
 import java.util.Scanner;
 

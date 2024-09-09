@@ -1,7 +1,7 @@
 //A number is called a twisted prime number if it is a prime number 
 //and reverse of this number is also a prime number. ex-79/97
 
-package wasim.basic.number.program;
+package NumberProgram;
 
 import java.util.Scanner;
 

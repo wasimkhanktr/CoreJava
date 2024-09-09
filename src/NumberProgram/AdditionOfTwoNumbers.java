@@ -1,4 +1,4 @@
-package wasim.basic.number.program;
+package NumberProgram;
 
 public class AdditionOfTwoNumbers {
 
