@@ -1,4 +1,4 @@
-package NumberProgram;;
+package NumberProgram;
 
 public class SwapTwoNoWithoutThirdVariable {
 
